@@ -247,7 +247,7 @@ Since we have a relationship between our products and our user we can show the o
 
     <p>
       The seller for this product is named '<%= first_product.user.name %>'
-    </p>
+    </p
 
 Check your logs again, did the SQL change? Are there any new statements, why?
 

@@ -1,0 +1,6 @@
+<h2> I AMA View </h2>
+<h2> Hello World </h2>
+<p>
+  <% first_product = Product.first %>
+  Product Name: "<%= first_product.name %>"" costs $<%= first_product.price %>
+</p>
